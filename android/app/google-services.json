@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "311521671961",
+    "firebase_url": "https://fir-320dd.firebaseio.com",
+    "project_id": "fir-320dd",
+    "storage_bucket": "fir-320dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311521671961:android:2bc62d26a58d1b5daaa388",
+        "android_client_info": {
+          "package_name": "com.example.bloc_poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311521671961-7hehuct5mj760n0t15t448ibr5mva98r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloc_poc",
+            "certificate_hash": "f9a94e127724982fe39cd79a714b779b39a54544"
+          }
+        },
+        {
+          "client_id": "311521671961-lvalpmfib0v3vh3t8qoro9ghdmj5vo19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgTM5AeG4T_r936xwP-Yhbz-Fke-GJXKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311521671961-lvalpmfib0v3vh3t8qoro9ghdmj5vo19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
